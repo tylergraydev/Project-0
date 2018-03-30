@@ -1,0 +1,6 @@
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\bin\Debug\Project 0.exe.config
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\bin\Debug\Project 0.exe
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\bin\Debug\Project 0.pdb
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\obj\Debug\Project 0.csprojResolveAssemblyReference.cache
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\obj\Debug\Project 0.exe
+D:\School\Spring 2 2016\CPT 244\Project 0\Project 0\obj\Debug\Project 0.pdb
